@@ -37,9 +37,7 @@ venv\Scripts\activate
 If PowerShell blocks activation:
 
 ```powershell
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-venv\Scripts\activate
-```
+
 
 ### macOS/Linux
 
