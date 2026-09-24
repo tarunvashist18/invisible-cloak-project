@@ -1,6 +1,6 @@
 # 🫥 Invisible Cloak — Python + OpenCV
 
-A beginner-friendly computer vision project inspired by the classic **Invisible Cloak** effect.
+A beginner-friendly computer vision project inspired by the classic *Invisible Cloak* effect.
 
 The webcam first captures the empty background. During the live video, the program detects **red-colored cloth** using HSV color segmentation and replaces that area with the previously captured background, creating an invisibility effect.
 
